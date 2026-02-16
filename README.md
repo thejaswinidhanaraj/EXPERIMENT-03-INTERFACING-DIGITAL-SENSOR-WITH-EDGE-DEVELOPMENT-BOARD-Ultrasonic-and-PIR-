@@ -174,7 +174,7 @@ while True:
 
 ### OUPUT  
 
-### Experiment 1A
+### Experiment 3A
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ebb4229b-7000-41bc-96ad-ebec86dabaf7" />
 
